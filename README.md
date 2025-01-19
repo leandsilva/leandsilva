@@ -1,6 +1,6 @@
 ## Olá, eu sou o Leandro!
 
-- 🔭 Atualmente, estudo Desenvolvimento Web Front-End
+- 🔭 Estudando Desenvolvimento Web Front-End
 - 🌱 Estou me aprofundando em JavaScript, Bootstrap, PHP, TypeScript e React
 
 <div>
